@@ -5,29 +5,10 @@
 ### Author: David Zheng 
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [submission PR](https://github.com/davidzheng-401d32/lab-01/pull/1)
+* [travis](https://www.travis-ci.com/davidzheng-401d32/lab-01)
+* [backend-end](https://davidzheng-lab-01.herokuapp.com/) 
 
-#### Documentation
-* [jsdoc](http://xyz.com) (Server assignments)
-
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
-### Setup
-
-#### Running the app
-* `npm start`
-  
 #### Tests
 * Unit Test: `npm test`
 * Lint Test: `npm run lint`
@@ -35,5 +16,3 @@ Usage Notes or examples
 Incomplete Tests:
 Need to test complex validations.
 
-#### UML
-Link to an image of the UML for your application and response to events
